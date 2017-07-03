@@ -53,7 +53,7 @@ var rebound = require('rebound');
 
 var flattenStyle = require('./flattenStyle');
 
-var PropTypes = React.PropTypes;
+// var PropTypes = React.PropTypes;
 
 // TODO: this is not ideal because there is no guarantee that the navigator
 // is full screen, however we don't have a good way to measure the actual
