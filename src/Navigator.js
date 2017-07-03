@@ -36,6 +36,7 @@ import {
   TVEventHandler,
   View,
 } from 'react-native';
+import PropTypes from 'prop-types';
 
 var AnimationsDebugModule = NativeModules.AnimationsDebugModule;
 var InteractionMixin = require('./InteractionMixin');
